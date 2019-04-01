@@ -16,29 +16,24 @@ tyosuke"at"aquaseerser.com
 
 # Eductation
 
-PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        2010-2013
+- PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        2010-2013
 
-MS, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan         2008-2010
+- MS, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan         2008-2010
 
-BA, Department of Agriculture, Nagoya University, Japan 	           2004-2008
+- BA, Department of Agriculture, Nagoya University, Japan 	           2004-2008
 
 # Professional Positions		                                               
 
-Executive Officer, Agri-Heir Co., Ltd. 					2018-Present
+- 2019-Present        Assistant Professor, ITbM of Nagoya University			  
+- 2018-Present        Executive Officer, Agri-Heir Co., Ltd. 					
 
--	Agricultural and plant science related database development and maintenance
--	Development of image based machine learning models
--	Consulting and development of IoT Agriculture related technologies
-
-JST PRESTO (さきがけ) Project Researcher				2017-Present
+- 2017-Present        JST PRESTO (さきがけ) Project Researcher, JST			
 
 
 
-Visiting Researcher (招聘教員)						2017-2018
-Institute of Transformative Bio-Molecules, Nagoya University
+- 2017-2019        Visiting Researcher (招聘教員), ITbM of Nagoya University
 
-Post-Doctoral Researcher			       			          2013-2017
-Nagoya University, Group of Plant Physiology (Prof. Kinoshita)
+- 2013-2017        Post-Doctoral Researcher, Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
 
 
 
