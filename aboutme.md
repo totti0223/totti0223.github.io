@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle:
+subtitle: curriculum vitae
 ---
 
 
