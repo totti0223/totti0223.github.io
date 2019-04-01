@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: yosuke toda
+title: yosuke_toda
 
 # Short description of your site
-description: Raveling the hidden represenation of plant development and underlying molecular functions through phenotyping
+description: Plant Phenotyping
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ navbar-links:
   #  #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  #- Learn markdown: "http://www.markdowntutorial.com/"
   #  #- GitHub Pages: "https://pages.github.com/"
-  #Author's home: "https://totti0223.github.io"
+  Home: "https://totti0223.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
