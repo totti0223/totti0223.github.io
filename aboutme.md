@@ -1,8 +1,10 @@
 ---
 layout: page
-title: CV
+title:
 subtitle:
 ---
+
+
 
 
 
@@ -39,16 +41,16 @@ tyosuke"at"aquaseerser.com
 
 # Publications-1
 
-1. Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Accepted.
-2. Toda Y**, Kudo T, Kinoshita T, and Nakamichi N. Evolutionary Insight into the Clock-Associated PRR5 Transcriptional Network of Flowering Plants. ***Scientific Reports.*** 2019: 9 2983.**
+1. **Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Accepted.
+2. **Toda Y**, Kudo T, Kinoshita T, and Nakamichi N. Evolutionary Insight into the Clock-Associated PRR5 Transcriptional Network of Flowering Plants. ***Scientific Reports.*** 2019: 9 2983.**
 3. **Toda Y**, Toh S, Bourdais G, Robatzek S, Maclean D and Kinoshita T. *DeepStomata*: Facial
    Recognition Technology for Automated Stomatal Aperture Measurement. ***bioRxiv***.
    2018: doi.org/10.1101/365098
-4. Toda Y**, Wang Y, Takahashi A, Kawai Y, Tada Y, Yamaji N, Ma JF, Ashikari M, and Kinoshita T. *Oryza
+4. **Toda Y**, Wang Y, Takahashi A, Kawai Y, Tada Y, Yamaji N, Ma JF, Ashikari M, and Kinoshita T. *Oryza
    sativa* H+-ATPase (OSA) is involved in the regulation of dumbbell-shaped guard cells of rice. ***Plant
    Cell Physiol***. 2016: 57(April):1220-1230. doi:10.1093/pcp/pcw070.**
 5. **Toda Y**, Tanaka M, Ogawa D, Kurata K, Kurotani K, Habu Y, Ando T, Sugimoto K, Mitsuda N, Katoh E, Abe K, Miyao A, Hirochika H, Hattori T, and Takeda, S. RICE SALT SENSITIVE3 forms a ternary complex with JAZ and class-C bHLH factors and regulates jasmonate-induced gene expression and root cell elongation. ***Plant Cell***. 2013: 25(5):1709-1725. doi:10.1105/tpc.113.112052.
-6. Toda Y**, Yoshida M, Hattori T, and Takeda S. RICE SALT SENSITIVE3 binding to bHLH and JAZ factors mediates control of cell wall plasticity in the root apex. ***Plant Signal Behav***. 2013: 8(11):e26256. doi:10.4161/psb.26256.
+6. **Toda Y**, Yoshida M, Hattori T, and Takeda S. RICE SALT SENSITIVE3 binding to bHLH and JAZ factors mediates control of cell wall plasticity in the root apex. ***Plant Signal Behav***. 2013: 8(11):e26256. doi:10.4161/psb.26256.
 
 # Publications-2
 
