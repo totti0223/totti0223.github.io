@@ -16,6 +16,8 @@ subtitle:
 
 
 
+
+
 # Eductation
 
 - PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        2010-2013

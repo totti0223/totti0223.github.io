@@ -23,8 +23,9 @@ description: Plant Phenotyping
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "aboutme"
+  About Me: "aboutme"
   Projects: "projects"
+  Activity: "activity"
   #Resources:
   #  #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  #- Learn markdown: "http://www.markdowntutorial.com/"
