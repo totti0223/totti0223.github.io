@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: About Me
 subtitle:
 ---
 
@@ -52,7 +52,7 @@ subtitle:
 5. **Toda Y**, Tanaka M, Ogawa D, Kurata K, Kurotani K, Habu Y, Ando T, Sugimoto K, Mitsuda N, Katoh E, Abe K, Miyao A, Hirochika H, Hattori T, and Takeda, S. RICE SALT SENSITIVE3 forms a ternary complex with JAZ and class-C bHLH factors and regulates jasmonate-induced gene expression and root cell elongation. ***Plant Cell***. 2013: 25(5):1709-1725. doi:10.1105/tpc.113.112052.
 6. **Toda Y**, Yoshida M, Hattori T, and Takeda S. RICE SALT SENSITIVE3 binding to bHLH and JAZ factors mediates control of cell wall plasticity in the root apex. ***Plant Signal Behav***. 2013: 8(11):e26256. doi:10.4161/psb.26256.
 
-# Publications-2
+# Publications-2 (Collaborative Projects)
 
 1. Toh S, Inoue S, **Toda Y**, Yuki T, Suzuki K, Hamamoto S, Fukatsu K, Aoki S, Uchida, M Asai E, et al. Identification and Characterization of Compounds that Affect Stomatal Movements. ***Plant Cell Physiol.*** 2018: 59, 1568–1580.
 2. Kurokawa Y, Nagai K, Huan P.D, Shimazaki K, Qu H, Mori Y, **Toda Y**, Kuroha T, Hayashi N, Aiga S, et al. Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance. **New Phytol.** 2018: 1558–1569.
