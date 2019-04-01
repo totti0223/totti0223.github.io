@@ -10,9 +10,9 @@ subtitle:
 
 # Yosuke Toda
 
-PhD (Agriculture)
+- PhD (Agriculture)
 
-tyosuke"at"aquaseerser.com
+- tyosuke"at"aquaseerser.com
 
 
 
