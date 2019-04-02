@@ -5,7 +5,7 @@ subtitle: Recent Dedications
 
 ---
 
-# 1. Stomata Regulating Compounds Isolation
+# 1. Stomata Regulating Compounds Screening
 
 ![stomataslide](assets/stomataslide.png)
 
