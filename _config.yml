@@ -23,7 +23,7 @@ description: Plant Phenotyping
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  $whoami(CV): "aboutme"
   Projects: "projects"
   Activities: "activities"
   #Resources:
