@@ -27,11 +27,11 @@ subtitle: Recent Dedications
 
 ![diseaseatlas](assets/diseaseatlas.png)
 
-# 3. DL-based image analysis for DEEP Plant Phenotyping (side projects)
+# 3. DEEP Plant Phenotyping (side projects)
 
 ![image-20190402153141429](assets/image-20190402153141429.png) ------> ![image-20190402153212196](assets/image-20190402153212196.png)
 
-# 4. Machine Learning Education and Materials thereof for Biologists (side projects)
+# 4. DL Education and Materials thereof for Biologists (side projects)
 
 Google Colab based projects for python beginners 
 [Deep learning for biologists with keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras)
