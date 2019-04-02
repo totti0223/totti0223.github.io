@@ -43,8 +43,8 @@ subtitle: curriculum vitae
 
 # Publications-1
 
-1. **Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Article ID 9237136, 14 pages. [open access](https://spj.sciencemag.org/plantphenomics/2019/9237136/?fbclid=IwAR1F0SYzw2dLpsAaEysZSkZC-I5C11q6dwIyWj-i5cWfBsIHMdeJ1BRub2w)
-2. **Toda Y**, Kudo T, Kinoshita T, and Nakamichi N. Evolutionary Insight into the Clock-Associated PRR5 Transcriptional Network of Flowering Plants. ***Scientific Reports.*** 2019: 9 2983.**
+1. **Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Article ID 9237136, 14 pages. [link](https://spj.sciencemag.org/plantphenomics/2019/9237136/?fbclid=IwAR1F0SYzw2dLpsAaEysZSkZC-I5C11q6dwIyWj-i5cWfBsIHMdeJ1BRub2w)
+2. **Toda Y**, Kudo T, Kinoshita T, and Nakamichi N. Evolutionary Insight into the Clock-Associated PRR5 Transcriptional Network of Flowering Plants. ***Scientific Reports.*** 2019: 9 2983.
 3. **Toda Y**, Toh S, Bourdais G, Robatzek S, Maclean D and Kinoshita T. *DeepStomata*: Facial
    Recognition Technology for Automated Stomatal Aperture Measurement. ***bioRxiv***.
    2018: doi.org/10.1101/365098
