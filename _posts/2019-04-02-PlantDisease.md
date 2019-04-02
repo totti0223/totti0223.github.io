@@ -4,7 +4,7 @@ title: How CNNs Diagnosis Plant Disease
 subtitle: Paper Published
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [publication]
 comments: true
 ---
 
