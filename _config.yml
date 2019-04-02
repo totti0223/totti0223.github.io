@@ -26,6 +26,7 @@ navbar-links:
   whoami: "aboutme"
   projects: "projects"
   activities: "activities"
+  placeholder:
   #Resources:
   #  #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  #- Learn markdown: "http://www.markdowntutorial.com/"
