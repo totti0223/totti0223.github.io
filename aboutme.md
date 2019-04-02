@@ -16,8 +16,6 @@ subtitle: curriculum vitae
 
 
 
-
-
 # Eductation
 
 - PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        2010-2013
@@ -39,7 +37,11 @@ subtitle: curriculum vitae
 
 - 2013-2017        Post-Doctoral Researcher, Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
 
+# Grants
 
+2017-Present JST PRESTO(さきがけ)
+
+2017-2018 ITbM Research Award
 
 # Publications-1
 
