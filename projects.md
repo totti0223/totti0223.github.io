@@ -28,8 +28,15 @@ subtitle: Recent Dedications
 ![diseaseatlas](assets/diseaseatlas.png)
 
 # 3. DL-based image analysis for DEEP Plant Phenotyping (side projects)
-for Mutant Characterization and/or Chemical Screening
-![image-20190402153141429](assets/image-20190402153141429.png) -> ![image-20190402153212196](assets/image-20190402153212196.png)
+
+![image-20190402153141429](assets/image-20190402153141429.png) ------> ![image-20190402153212196](assets/image-20190402153212196.png)
 
 # 4. Machine Learning Education and Materials thereof for Biologists (side projects)
+
+Google Colab based projects for python beginners 
+https://github.com/totti0223/deep_learning_for_biologists_with_keras
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As working in the fields of plant science and agriculture as a “relatively wet” bioinformatician, feeling the increasing needs of tutorial specialized for plant biology in addition to CIFAR-10 and MNIST to give biologists a better implementation of what they can do with DL.</p>&mdash; ɐpoʇ ǝʞnsoʎ (@totti0223) <a href="https://twitter.com/totti0223/status/1085144240085032960?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So I started to create a tutorial that handles tasks and themes related to plant science in github. &quot;deep learning for biologists with keras&quot;, a tutorial notebooks utilizing Google Colab <a href="https://t.co/OBL8lL0CwQ">https://t.co/OBL8lL0CwQ</a></p>&mdash; ɐpoʇ ǝʞnsoʎ (@totti0223) <a href="https://twitter.com/totti0223/status/1085144621976498176?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A set of specialized tutorials to train biologists to leverage deep learning in their field. It&#39;s exciting to see deep learning being applied in more and more scientific domains! <a href="https://t.co/x9MwGHQHil">https://t.co/x9MwGHQHil</a></p>&mdash; François Chollet (@fchollet) <a href="https://twitter.com/fchollet/status/1085220815535202304?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
