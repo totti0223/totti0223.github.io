@@ -7,9 +7,7 @@ subtitle: Conferences, Lectures, etc...
 
 
 
-
-
-#Seminars
+# Seminars
 
 1. Hands on seminar, Deep Learning for Biologists, JST CREST/PRESTO meeting, Miyazaki, Japan 
 2. Hands on seminar, Deep Learning for Biologists, AFFRC, Tsukuba, Japan
