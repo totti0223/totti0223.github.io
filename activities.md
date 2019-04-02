@@ -9,13 +9,11 @@ subtitle: Conferences, Lectures, etc...
 
 
 
-
-
 #Seminars
 
-1. Handson seminar, Deep Learning for Biologists, JST CREST/PRESTO meeting, Miyazaki, Japan 
-2. Handson seminar, Deep Learning for Biologists, 
-3. Handson seminar, Deep Learning for Biologists, Nagoya University, Japan
+1. Hands on seminar, Deep Learning for Biologists, JST CREST/PRESTO meeting, Miyazaki, Japan 
+2. Hands on seminar, Deep Learning for Biologists, AFFRC, Tsukuba, Japan
+3. Hands on seminar, Deep Learning for Biologists, Nagoya University, Japan
 
 # Presentations
 
