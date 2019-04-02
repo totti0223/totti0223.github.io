@@ -9,8 +9,7 @@ subtitle: Recent Dedications
 
 ![stomataslide](assets/stomataslide.png)
 
-- Toda Y**, Toh S, Bourdais G, Robatzek S, Maclean D and Kinoshita T. *DeepStomata*: Facial
-  Recognition Technology for Automated Stomatal Aperture Measurement. ***bioRxiv***.
+- **Toda Y**, Toh S, Bourdais G, Robatzek S, Maclean D and Kinoshita T. *DeepStomata*: Facial Recognition Technology for Automated Stomatal Aperture Measurement. ***bioRxiv***.
   2018: doi.org/10.1101/365098
 
 - Toh S, Inoue S, **Toda Y**, Yuki T, Suzuki K, Hamamoto S, Fukatsu K, Aoki S, Uchida, M Asai E, et al. Identification and Characterization of Compounds that Affect Stomatal Movements. ***Plant Cell Physiol.*** 2018: 59, 1568–1580.
