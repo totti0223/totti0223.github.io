@@ -7,7 +7,7 @@ subtitle: Recent Dedications
 
 
 
-# 1. Development of Phenotypic Screening image analysis system for Stomata Regulating Compounds
+# 1. Stomata Regulating Compounds Isolation
 
 ![stomataslide](assets/stomataslide.png)
 
