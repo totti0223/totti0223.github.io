@@ -19,6 +19,8 @@ subtitle: Recent Dedications
 
 
 
+
+
 # 2. Deep Learning Based Plant Disease Diagnosis
 
 ## 2-1. Interpretability methods and training optimization
@@ -34,10 +36,15 @@ subtitle: Recent Dedications
 
 
 
+
+
 # 3. DL-based image analysis for DEEP Plant Phenotyping (side projects)
 ![image-20190402153141429](assets/image-20190402153141429.png)![image-20190402153212196](assets/image-20190402153212196.png)
 <video src=".assets/020.mp4" height="240" width="320" autoplay></video>
 for Mutant Characterization and/or Chemical Screening
+
+
+
 
 
 # 4. Machine Learning Education and Materials thereof for Biologists (side projects)
