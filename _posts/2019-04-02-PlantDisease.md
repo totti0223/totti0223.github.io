@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Published: How convolutional neural networks diagnosis plant disease
+title: [Paper Published] How CNNs diagnosis plant disease
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">our newest paper on interpreting plant disease with CNN is out!<a href="https://t.co/RokEv5SlPD">https://t.co/RokEv5SlPD</a></p>&mdash; ɐpoʇ ǝʞnsoʎ (@totti0223) <a href="https://twitter.com/totti0223/status/1110538297288343552?ref_src=twsrc%5Etfw">March 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
