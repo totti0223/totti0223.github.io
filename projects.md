@@ -20,7 +20,7 @@ subtitle: Recent Dedications
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/LatestArticle?src=hash&amp;ref_src=twsrc%5Etfw">#LatestArticle</a> How Convolutional Neural Networks Diagnose Plant Disease, by Yosuke Toda <a href="https://twitter.com/totti0223?ref_src=twsrc%5Etfw">@totti0223</a> and Fumio Okura<a href="https://t.co/OjCcfwkTbr">https://t.co/OjCcfwkTbr</a> <a href="https://t.co/m7QplHzyWQ">pic.twitter.com/m7QplHzyWQ</a></p>&mdash; Plant Phenomics (@PPhenomics) <a href="https://twitter.com/PPhenomics/status/1111176107888263169?ref_src=twsrc%5Etfw">March 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
 
-- Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Article ID 9237136, 14 pages.  [link](https://spj.sciencemag.org/plantphenomics/2019/9237136/?fbclid=IwAR1F0SYzw2dLpsAaEysZSkZC-I5C11q6dwIyWj-i5cWfBsIHMdeJ1BRub2w)
+- **Toda Y** and Okura F. How Convolutional Neural Networks Diagnose Plant Disease. ***Plant Phenomics.*** 2019: Article ID 9237136, 14 pages.  [link](https://spj.sciencemag.org/plantphenomics/2019/9237136/?fbclid=IwAR1F0SYzw2dLpsAaEysZSkZC-I5C11q6dwIyWj-i5cWfBsIHMdeJ1BRub2w)
 
 ## 2-2. Community annotation based Disease Atlas
 
