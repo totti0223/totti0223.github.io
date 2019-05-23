@@ -43,8 +43,7 @@ Now going for Arabidopsis stomata quantification...
 
 
 - Area, Leaf Tracking, ..... 
-
-![005_seg](assets/005_seg.gif)
+- ![005_seg](assets/005_seg.gif)
 
 - Leaf counting…..
 
