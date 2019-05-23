@@ -34,21 +34,22 @@ Now going for Arabidopsis stomata quantification...
 
 
 
-# 3. Plant Phenotyping Modules
+# 3. Plant Phenotyping Modules in Development
 
-- Clustring Arabidopsis Mutants via representation vector and visualization (in development)
+- Clustring Arabidopsis Mutants via representation vector and visualization
 
 ![image-20190402153141429](assets/image-20190402153141429.png) ------> ![image-20190402153212196](assets/image-20190402153212196.png)
 
 
 
-- Area, Leaf Tracking, Leaf counting, etc.. (manuscript in preparation)
+- Area, Leaf Tracking, ..... 
 
 ![005_seg](assets/005_seg.gif)
 
+- Leaf counting…..
+- ![005_ln](assets/005_ln.gif)
 
-
-- Feeding scar segmentation. (manuscript in preparation)
+- Feeding scar area quantification (in preparation). 
 
 ![image-20190523183617034](assets/image-20190523183617034.png)
 
