@@ -11,8 +11,8 @@ subtitle: curriculum vitae
 # Yosuke Toda
 
 - PhD (Agriculture)
-
 - tyosuke"at"aquaseerser.com
+- JST PRESTO Researcher / 
 
 
 
