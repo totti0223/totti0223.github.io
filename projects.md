@@ -47,7 +47,8 @@ Now going for Arabidopsis stomata quantification...
 ![005_seg](assets/005_seg.gif)
 
 - Leaf counting…..
-- ![005_ln](assets/005_ln.gif)
+
+  ![005_ln](assets/005_ln.gif)
 
 - Feeding scar area quantification (in preparation). 
 
