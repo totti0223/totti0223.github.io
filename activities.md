@@ -29,7 +29,7 @@ subtitle: Conferences, Lectures, etc...
 3. 2018 Hands on seminar, Deep Learning for Plant Biologists, AFFRC, Tsukuba, Japan - **Invited**
 4. 2017 Hands on seminar, Deep Learning for Plant Biologists, Nagoya University, Japan
 
-# 
+
 
 # Attendances, Visits, etc..
 
