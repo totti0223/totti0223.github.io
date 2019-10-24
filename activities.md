@@ -7,18 +7,19 @@ subtitle: Conferences, Lectures, etc...
 
 # Presentations
 
-1. 2019/08/18	KWS, Einbeck, Germany, **Invited,** *Seminar*
-2. 2019/08/17	植物学会, Sendai, Japan **Host,** *Symposium*
-3. 2019/07/26	Institute of Industrial Science, The University of Tokyo, - **Invited**, *Seminar*
-4. 2019/07/05	Ritsumeikan Univ., Japan - **Invited**, *Seminar*
-5. 2019/06/21　The Center for Ecological Research, Kyoto Univ., Japan - **Invited**, *Seminar*
-6. 2019/06/18 　Kihara Institute for Biological Resarch, Yokohama City Univ., Japan - **Invited**, *Seminar*
-7. 2019/03/17    植物病理を紡ぐ会, Tsukuba University, Japan - **Invited**, *Seminar* 
-8. 2019/03/17　育種学会シンポジウム, Chiba University, Japan - **Invited**, *Oral Short Talk*
-9. 2018/12/07　農学中手の会, Ogoto, Japan - *Oral Short Talk*
-10. 2018/09/29    International Plant Phenotyping Symposium, Adelaide, Australia - *Poster*
-11. 2018/09/14    植物学会, Hiroshima, Japan - **Invited**, *Oral*
-12. 2018/09/11    第一回植物インフォマティクス研究会, Meiji University, Japan, *Poster*
+1. 2019/10/24	6th International Plant Phenotyping Symposium, Nangjin, China, - **Selected**(?), *Oral Presentation*
+2. 2019/08/18	KWS, Einbeck, Germany - **Invited,** *Seminar*
+3. 2019/08/17	植物学会, Sendai, Japan - **Host,** *Symposium*
+4. 2019/07/26	Institute of Industrial Science, The University of Tokyo, Japan - **Invited**, *Seminar*
+5. 2019/07/05	Ritsumeikan Univ., Japan - **Invited**, *Seminar*
+6. 2019/06/21　The Center for Ecological Research, Kyoto Univ., Japan - **Invited**, *Seminar*
+7. 2019/06/18 　Kihara Institute for Biological Resarch, Yokohama City Univ., Japan - **Invited**, *Seminar*
+8. 2019/03/17    植物病理を紡ぐ会, Tsukuba University, Japan - **Invited**, *Seminar* 
+9. 2019/03/17　育種学会シンポジウム, Chiba University, Japan - **Invited**, *Oral Short Talk*
+10. 2018/12/07　農学中手の会, Ogoto, Japan - *Oral Short Talk*
+11. 2018/09/29    International Plant Phenotyping Symposium, Adelaide, Australia - *Poster*
+12. 2018/09/14    植物学会, Hiroshima, Japan - **Invited**, *Oral*
+13. 2018/09/11    第一回植物インフォマティクス研究会, Meiji University, Japan, *Poster*
 
 
 
