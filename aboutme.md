@@ -12,7 +12,7 @@ subtitle: curriculum vitae
 
 - PhD (Agriculture)
 - tyosuke"at"aquaseerser.com
-- JST PRESTO Researcher / 
+- JST PRESTO Researcher
 
 
 
@@ -39,9 +39,11 @@ subtitle: curriculum vitae
 
 # Grants
 
-2017-Present JST PRESTO(さきがけ)
+2017-Present JST PRESTO(さきがけ・情報協同栽培)
 
 2017-2018 ITbM Research Award
+
+
 
 # Publications-1
 
