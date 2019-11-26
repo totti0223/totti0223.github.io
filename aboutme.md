@@ -18,20 +18,18 @@ subtitle: curriculum vitae
 
 # Education
 
-- PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        2010-2013
+- 2010-2013    PhD, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan        
 
-- MS, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan         2008-2010
+- 2008-2010     MS, Graduate School of Bio-agricultural Sciences, Nagoya University, Japan
 
-- BA, Department of Agriculture, Nagoya University, Japan 	           2004-2008
+- 2004-2008     BA, Department of Agriculture, Nagoya University, Japan 	           
 
 # Professional Positions		                                               
 
 - 2019-Present        Assistant Professor, ITbM of Nagoya University			  
 - 2018-Present        Executive Officer, Agri-Heir Co., Ltd. 					
-
 - 2017-Present        JST PRESTO (さきがけ) Project Researcher, JST			
-
-
+- 
 
 - 2017-2019        Visiting Researcher (招聘教員), ITbM of Nagoya University
 
@@ -39,9 +37,9 @@ subtitle: curriculum vitae
 
 # Grants
 
-2017-Present JST PRESTO(さきがけ・情報協同栽培)
+- 2017-Present JST PRESTO(さきがけ・情報協同栽培)
 
-2017-2018 ITbM Research Award
+- 2017-2018 ITbM Research Award
 
 
 
@@ -60,12 +58,13 @@ subtitle: curriculum vitae
 
 # Publications-2 (Collaborative Projects)
 
-1. Toh S, Inoue S, **Toda Y**, Yuki T, Suzuki K, Hamamoto S, Fukatsu K, Aoki S, Uchida, M Asai E, et al. Identification and Characterization of Compounds that Affect Stomatal Movements. ***Plant Cell Physiol.*** 2018: 59, 1568–1580.
-2. Kurokawa Y, Nagai K, Huan P.D, Shimazaki K, Qu H, Mori Y, **Toda Y**, Kuroha T, Hayashi N, Aiga S, et al. Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance. **New Phytol.** 2018: 1558–1569.
-3. Win K, Yamagata Y, Doi K, Uyama K, Nagai Y, **Toda Y**, Kani T. Ashikari M, Yasui H, and Yoshimura, A. A single base change explains the independent origin of and selection for the non shattering gene in African rice domestication. **New Phytol.** 2016:1925-1935.
-4. Kurotani K, Yamanaka K, **Toda Y**, Ogawa D, Tanaka M, Kozawa H, Nakamura H, Hakata M, Ichikawa H, Hattori T, et al. Stress Tolerance Profiling of a Collection of Extant Salt-Tolerant Rice Varieties and Transgenic Plants Overexpressing Abiotic Stress Tolerance Genes. ***Plant Cell Physiol.*** 2015:1867–1876.
-5. Ogawa D, Abe K, Miyao A, Kojima M, Sakakibara H, Mizutani M, Morita H, **Toda Y**, Hobo T, Sato Y, Hattori T, Hirochika H, and Takeda S. RSS1 regulates the cell cycle and maintains meristematic activity under stress conditions in rice. ***Nat Commun***. 2011: 2:278.
-6. Hanin M, Brini F, Ebel C, **Toda Y**, Takeda S, and Masmoudi K. Plant dehydrins and stress tolerance: versatile proteins for complex mechanisms. ***Plant Signal Behav.*** 2011: 6(10):1503-1509.
+1. Busch, Florian A; Tominaga, Jun; Muroya, Masato; Shirakami, Norihiko; Takahashi, Shunichi; Yamori, Wataru; Kitaoka, Takuya; Milward, Sara E; Nishimura, Kohji; Matsunami, Erika; Overexpression of BUNDLE SHEATH DEFECTIVE 2 improves the efficiency of photosynthesis and growth in Arabidopsis. ***The Plant Journal***. https://doi.org/10.1111/tpj.14617
+2. Toh S, Inoue S, **Toda Y**, Yuki T, Suzuki K, Hamamoto S, Fukatsu K, Aoki S, Uchida, M Asai E, et al. Identification and Characterization of Compounds that Affect Stomatal Movements. ***Plant Cell Physiol.*** 2018: 59, 1568–1580.
+3. Kurokawa Y, Nagai K, Huan P.D, Shimazaki K, Qu H, Mori Y, **Toda Y**, Kuroha T, Hayashi N, Aiga S, et al. Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance. **New Phytol.** 2018: 1558–1569.
+4. Win K, Yamagata Y, Doi K, Uyama K, Nagai Y, **Toda Y**, Kani T. Ashikari M, Yasui H, and Yoshimura, A. A single base change explains the independent origin of and selection for the non shattering gene in African rice domestication. **New Phytol.** 2016:1925-1935.
+5. Kurotani K, Yamanaka K, **Toda Y**, Ogawa D, Tanaka M, Kozawa H, Nakamura H, Hakata M, Ichikawa H, Hattori T, et al. Stress Tolerance Profiling of a Collection of Extant Salt-Tolerant Rice Varieties and Transgenic Plants Overexpressing Abiotic Stress Tolerance Genes. ***Plant Cell Physiol.*** 2015:1867–1876.
+6. Ogawa D, Abe K, Miyao A, Kojima M, Sakakibara H, Mizutani M, Morita H, **Toda Y**, Hobo T, Sato Y, Hattori T, Hirochika H, and Takeda S. RSS1 regulates the cell cycle and maintains meristematic activity under stress conditions in rice. ***Nat Commun***. 2011: 2:278.
+7. Hanin M, Brini F, Ebel C, **Toda Y**, Takeda S, and Masmoudi K. Plant dehydrins and stress tolerance: versatile proteins for complex mechanisms. ***Plant Signal Behav.*** 2011: 6(10):1503-1509.
 
 
 
