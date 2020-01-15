@@ -12,4 +12,8 @@ comments: true
 
 # Commantary article in Qiita. (Japanse) of RIPPS monitoring program.
 
-https://qiita.com/totti0223/items/2251c8affd50cda01d32
+[リンク先](https://qiita.com/totti0223/items/2251c8affd50cda01d32)
+
+
+
+![image-20200115184817725](2020-01-15-rippsmonitor.assets/image-20200115184817725.png)
