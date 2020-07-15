@@ -12,7 +12,10 @@ subtitle: curriculum vitae
 
 - PhD (Agriculture)
 - tyosuke"at"aquaseerser.com
+- 
 - JST PRESTO Researcher
+- Proj. Assistant Professor, ITbM of Nagoya University
+- CEO, Phytometrics Inc.
 
 
 
@@ -24,15 +27,17 @@ subtitle: curriculum vitae
 
 # Professional Positions		                                               
 
-- 2013-2017        Post-Doc., Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
+- 2013-2017             Post-Doc., Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
 
-- 2017-2019        Visiting Researcher (招聘教員), ITbM of Nagoya University
+- 2017-2019             Visiting Researcher (招聘教員), ITbM of Nagoya University
 
 - 2017-Present        JST PRESTO (さきがけ) Project Researcher, JST			
 
-- 2018-2019        Executive Officer, Agri-Heir Co., Ltd. 
+- 2018-2019             Executive Officer, Agri-Heir Co., Ltd. 
 
 - 2019-Present        Proj. Assistant Professor (特任助教), ITbM of Nagoya University
+
+- 2020-Present        CEO, Phytometrics Inc.
 
   
 
