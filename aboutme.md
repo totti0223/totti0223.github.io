@@ -24,7 +24,7 @@ subtitle: curriculum vitae
 
 # Professional Positions		                                               
 
-- 2013-2017        Post-Doctoral Researcher, Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
+- 2013-2017        Post-Doc., Group of Plant Physiology (Prof. Kinoshita) of  Nagoya University
 
 - 2017-2019        Visiting Researcher (招聘教員), ITbM of Nagoya University
 
